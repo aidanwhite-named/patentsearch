@@ -1,2 +1,2 @@
-# patentsearch
-searching program proto type
+# patentsearching
+Searching for patents similar to the claimed invention
